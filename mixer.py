@@ -20,6 +20,6 @@ with open('dataset.csv','r') as source:
 
 data.sort()
 
-for line in data:
+for _, line in data:
 	print line.strip()
 
