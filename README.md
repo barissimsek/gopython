@@ -2,7 +2,9 @@
 
 My personal experiences while studying machine learning and python.
 
-python-url-validation-regex.py - http URL validator with regular expressions
+python-url-validation-regex.py - http URL validator with regular expressions.
 
-mixer.py - random file mixer
+mixer.py - Random file mixer. Randomize your dataset before splitting it into test and training sets.
+
+bs-kdistance - Finds distance between two strings by considering letter mimics (a -> @) and if the letter exist in k-neighborhood. That function is usefull for antispam, antivirus and anti-phishing softwares.
 
