@@ -1,6 +1,6 @@
 '''
 
-Simsek's K-Neighborhood Distance
+BS K-Neighborhood Distance
 
 To get better results from MIMIC_MAP use case sensitive strings. 
 
@@ -48,7 +48,7 @@ def skdistance(str1, str2, k):
 	return d
 
 if __name__ == "__main__":
-	
+
 	d = skdistance("bankofamerica", "bankamoferica", 3)
 
 	print "Distance: " + str(d)
