@@ -10,4 +10,6 @@ bs-kdistance - Finds distance between two strings by considering letter mimics (
 
 knn.py - Jason Brownlee's KNN algorithm in Python
 
+phishtank - Feature generation script from URLs
+
 
