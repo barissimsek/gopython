@@ -10,11 +10,11 @@ minimal resources from the attacker.
 
 Ref: https://blog.qualys.com/securitylabs/2011/11/02/how-to-protect-against-slow-http-attacks
 
-I used dpkt library to decode/parse the PCAP file
+I used dpkt library to decode/parse the PCAP file. I ignored the time frame calculation to keep it simple. 
 
 Baris Simsek, https://github.com/barissimsek
 
-TODO: Needed to be tested with different pcaps.
+TODO: Needs to be tested with different pcap samples.
 
 '''
 
