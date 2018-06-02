@@ -31,7 +31,8 @@ def merge_sort(ul):
 	if len(ul) == 1:
 		return ul
 
-	c = int(round(len(ul) / 2))
+	#c = int(round(len(ul) / 2))
+	c = len(ul) // 2		# integer division
 	left = ul[:c] 			# split, left part
 	right = ul[c:]			# split, right part
 
