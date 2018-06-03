@@ -1,3 +1,7 @@
+#
+# Complexity: O(log(n)) 
+#
+
 def int_to_str(i):
 	digits = '0123456789'
 	

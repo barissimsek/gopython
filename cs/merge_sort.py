@@ -1,3 +1,6 @@
+#
+# Complexity: O(n log n)
+#
 
 def merge(left, right):
 	UL = []
