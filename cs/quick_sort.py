@@ -18,7 +18,7 @@ def quick_sort(ul):
 	return quick_sort(left) + [pivot] + quick_sort(right)
 
 
-if __name__== "__main__":
+if __name__ == "__main__":
 	ul = [0,99,15,33,55,21,78,18,90,43,32,58,12,17,47,93,91,72]
 	print("Unsorted list: ", str(ul))
 
