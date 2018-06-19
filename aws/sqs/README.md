@@ -11,7 +11,7 @@ aws_secret_access_key = MY_ACCESS_KEY_SECRET
 region = us-west-2
 ```
 
-Install boto3 library to use AWS services:
+Install boto3 library to be able to use AWS services:
 
 ```
 $ sudo pip install boto3
